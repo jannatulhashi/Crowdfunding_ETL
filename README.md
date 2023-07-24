@@ -32,6 +32,7 @@ The instructions for this mini-project are divided into the following subsection
 
 ### Create the Campaign DataFrame
 1: Extract and transform the **crowdfunding.xlsx** Excel data to create a campaign DataFrame has the following columns:
+
     - The "cf_id" column
     - The "contact_id" column
     - The "company_name" column
