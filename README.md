@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Build an ETL pipeline using Python, Pandas, and regular expressions to extract, transform, and load data into a Postgres database with CSV files, and create an ERD and table schema.
+The purpose of this project is to build an ETL pipeline using Python, Pandas, and regular expressions to extract, transform, and load data into a Postgres database with CSV files, and create an ERD and table schema.
 
 ## Instructions
 The instructions for this mini-project are divided into the following subsections:
