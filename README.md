@@ -63,7 +63,7 @@ The instructions for this mini-project are divided into the following subsection
    - Split each "name" column value into a first and a last name, and place each in a new column
    - Clean and then export the DataFrame as **contacts.csv** and save it to the GitHub repository.
 
-4: Check that the final DataFrame resembles the one in the following image:
+Check that the final DataFrame resembles the one in the following image:
 
 ![](Images/contact_DataFrame_final.png)
 
