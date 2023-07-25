@@ -77,8 +77,6 @@ Check that the final DataFrame resembles the one in the following image:
 ### Create the Crowdfunding Database
 1: Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD [(https://www.quickdatabasediagrams.com/)]
 
-![](crowdfunding_db_screenshots/Screenshot 2023-07-24 195934.png)
-
 2: Use the information from the ERD to create a table schema for each CSV file.
 
 **Note:** Remember to specify the data types, primary keys, foreign keys, and other constraints.
