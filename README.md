@@ -1,6 +1,13 @@
 # Crowdfunding_ETL
 The purpose of this project is to build an ETL pipeline using Python, Pandas, and regular expressions to extract, transform, and load data into a Postgres database with CSV files, and create an ERD and table schema.
 
+### Navigation
+All branches have been merged with main for ease of navigation.
+'ETL_Mini_Project_CLi_JHashi_HDikian_EScribner' - the code used to generate the CSVs.
+'crowdfunding_db_schema' contains the layout of the database. 
+'crowdfunding_db' contains the code used to generate the tables in the database.
+'crowdfunding_db_screenshots' contains screenshots of the select statements properly retrieving information from the tables.
+
 ## Instructions
 The instructions for this mini-project are divided into the following subsections:
 - Create the Category and Subcategory DataFrames
